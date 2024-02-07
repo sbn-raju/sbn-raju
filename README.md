@@ -11,7 +11,6 @@ I also have experience in database management using MongoDB and in different lan
   <li>Pronouns: He/Him</li>
   <li>Fun Fact:I don't love sitting and coding&#x1F602;</li>
 </ul>
-<h2>Things I work on</h2>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fsbn-raju?style=flat-square&logo=github&label=Github&color=black)
+
 
 
