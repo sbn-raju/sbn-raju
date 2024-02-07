@@ -6,8 +6,8 @@ I also have experience in database management using MongoDB and in different lan
 <hr>
 <h2>I am Java and Python programmer, a Full-Stack Dev and a techy!</h2>
 <ul>
-  <li>I am currently Looking Forward to Collabrate</li>
-   <li>Ask me about blogs</li>
+  <li>I am currently Looking Forward to Collabrate&#x1F91D;</li>
+  <li>Ask me about blogs</li>
   <li>Pronouns: He/Him</li>
-  <li>Fun Fact:I dont love Sitting and coding</li>
+  <li>Fun Fact:I don't love sitting and coding&#x1F602;</li>
 </ul>
