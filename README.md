@@ -86,8 +86,8 @@ Streamlit support assistant built on **Google ADK + Gemini** that looks up custo
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [Doctor Appointment Platform](https://github.com/sbn-raju/doctor-appointment)
-Production site for a naturopathy practice: booking, scheduling, payments and SMS. Hardened with Helmet, rate limiting, JWT and validation.
+### 🏥 [Vaidora](https://github.com/sbn-raju/vaidora)
+A custom-built full-stack platform designed for an Ayurveda doctor to manage online classes and patient consultations. The platform provides dedicated dashboards for three user roles: users, administrators, and doctors. Patients can browse available consultation slots, make payments through Razorpay, and book appointments.
 
 `React` `Redux` `MUI` `Express` `PostgreSQL` `Razorpay` `Twilio`
 
